@@ -1,9 +1,13 @@
 import "./App.css";
+import Nav from "./components/Nav/Nav";
+// import NavBar from "./components/NavBar/NavBar";
 
 function App() {
   return (
     <>
-      <h1 className="text-7xl bg-orange-600 text-white text-center p-4 ">Vite + React</h1>
+    {/* <NavBar></NavBar> */}
+    <Nav></Nav>
+    
     </>
   );
 }
