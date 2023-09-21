@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 30,
+      "features": [
+        "Access to gym facilities",
+        "Basic fitness classes",
+        "Locker room access",
+        "24/7 gym access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 50,
+      "features": [
+        "Access to gym facilities",
+        "Full range of fitness classes",
+        "Locker room access",
+        "Personal trainer consultation",
+        "24/7 gym access"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 80,
+      "features": [
+        "Access to gym facilities",
+        "Full range of fitness classes",
+        "Locker room access",
+        "Unlimited personal training sessions",
+        "24/7 gym access",
+        "Access to sauna and spa"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Student Membership",
+      "price": 20,
+      "features": [
+        "Access to gym facilities",
+        "Basic fitness classes",
+        "Locker room access",
+        "Valid student ID required",
+        "24/7 gym access"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Family Membership",
+      "price": 100,
+      "features": [
+        "Access to gym facilities for the entire family",
+        "Full range of fitness classes",
+        "Locker room access",
+        "Personal trainer consultation",
+        "24/7 gym access"
+      ]
+    }
+  ]
+  
